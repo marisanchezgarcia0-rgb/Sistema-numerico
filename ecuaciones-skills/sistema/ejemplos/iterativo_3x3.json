@@ -1,0 +1,1 @@
+{"A": [[4,1,1],[1,5,2],[1,2,6]], "b": [6,8,9], "metodo": "gauss_seidel", "tolerancia": 1e-8}
