@@ -1,3 +1,5 @@
 google-antigravity
+google-genai
 streamlit
+pillow
 pytest
